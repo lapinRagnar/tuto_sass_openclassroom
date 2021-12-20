@@ -1,0 +1,11 @@
+{
+  "name": "tuto_sass_openclassroom",
+  "version": "1.0.0",
+  "description": "tuto sass openclassroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lapinragnar",
+  "license": "ISC"
+}
